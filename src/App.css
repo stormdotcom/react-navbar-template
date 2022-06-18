@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+.main {
+    background: radial-gradient(at center center , #dcdcf8 0%, #afafe4 100% ), url("./assets/mountains.jpg");
+    height: 100vh;
+    background-size: center;
+    background-position: center; 
+}
