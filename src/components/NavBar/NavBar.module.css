@@ -17,17 +17,8 @@
     letter-spacing: 1px;
     font-weight: 300;
 }
-.navlinks {
-    display: flex;
-    justify-content: space-around;
-    width: 50%;
-    font-size: 24px;
-}
-.links {
-    letter-spacing: 3px;
-    font-weight: 800;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.links h3 {
-    cursor: pointer;
-}
+
+
+
+
+/* / */

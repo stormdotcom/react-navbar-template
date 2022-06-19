@@ -12,8 +12,9 @@ a {
     text-decoration: none;
 }
 .main {
-    background: radial-gradient(at center center , #dcdcf8 0%, #afafe4 100% ), url("./assets/mountains.jpg");
+    background:  url("./assets/mountains.jpg");
+    max-width: 100%;
     height: 100vh;
-    background-size: center;
-    background-position: center; 
+    background-size: contain;
+    background-position:top; 
 }
